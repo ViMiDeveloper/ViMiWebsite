@@ -1,4 +1,4 @@
 # ViMiWebsite
 ## Basically a website about me &lt;P
 
-This project is outdated. Currently working on it :3
+For some reason, Scroll distance wouldn't work on mobile ( sorry mobile users )
